@@ -127,7 +127,7 @@ If you are adding a new device config/PlatformIO environment, you will have to a
 
 ### Default button holds
 
-<img width="1492" height="830" alt="image" src="https://github.com/user-attachments/assets/7fb0850b-3efd-4981-aa30-775f5defeed3" />
+<img width="1492" height="830" alt="image" src="https://github.com/user-attachments/assets/1725b3db-f5d6-4dd0-8883-70178bb9690f" />
 
 #### Config mode
 
