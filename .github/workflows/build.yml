@@ -49,6 +49,8 @@ jobs:
             bin_ext: hex
           - env: smashbox
             bin_ext: hex
+          - env: pico2
+            bin_ext: uf2
 
     steps:
     - name: Check out source code
